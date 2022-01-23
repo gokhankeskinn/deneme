@@ -1,0 +1,17 @@
+
+
+
+
+#img
+*.jpg
+*.png
+img/
+
+#videos
+*.mp4
+
+#packeges
+
+#log
+*.log
+password.txt
